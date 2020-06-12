@@ -1,2 +1,0 @@
-enem2018.csv
-100mil linhas + todas as colunas
